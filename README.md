@@ -145,6 +145,6 @@ This app uses the free [FakeStore API](https://fakestoreapi.com):
 ---
 
 ## Author
-Praveen
+Praveen 
 [GitHub](github.com/praveenkumar) · [LinkedIn](www.linkedin.com/in/
 praveen-kumar03)
