@@ -6,7 +6,7 @@ import {
     fetchCategories,
     setActiveCategory,
     setSearchQuery,
-} from '../store/productSlice';
+} from '../store/ProductSlice';
 import ProductCard from '../components/ProductCard';
 import Spinner from '../components/Spinner';
 

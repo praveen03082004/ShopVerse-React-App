@@ -1,7 +1,7 @@
 // src/components/CartItem.js
 import React from 'react';
 import { useDispatch } from 'react-redux';
-import { addToCart, decreaseQuantity, removeFromCart } from '../store/cartSlice';
+import { addToCart, decreaseQuantity, removeFromCart } from '../store/CartSlice';
 import { showToast } from './ToastContainer';
 
 function CartItem({ item }) {

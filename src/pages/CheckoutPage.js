@@ -2,7 +2,7 @@
 import React, { useState } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import { Link, useNavigate } from 'react-router-dom';
-import { clearCart } from '../store/cartSlice';
+import { clearCart } from '../store/CartSlice';
 import OrderSummary from '../components/OrderSummary';
 
 const INITIAL_FORM = {

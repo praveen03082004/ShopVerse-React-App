@@ -2,8 +2,8 @@
 import React, { useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { useDispatch, useSelector } from 'react-redux';
-import { fetchProductById, clearSelectedProduct } from '../store/productSlice';
-import { addToCart } from '../store/cartSlice';
+import { fetchProductById, clearSelectedProduct } from '../store/ProductSlice';
+import { addToCart } from '../store/CartSlice';
 import { showToast } from '../components/ToastContainer';
 import Spinner from '../components/Spinner';
 
